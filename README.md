@@ -35,15 +35,13 @@ Student Module
 | PDF/Export  | reportlab, pandas (optional)        |
 
 ## 🗂 Project Structure 
-LeaveManagement/ 
-│ 
-── main.py                  → Entry point of the app           
-│ 
-├── db/ 
-│   └── leave_system.db     → SQLite database 
-│ 
-│ 
-└── README.md               → Project documentation 
+LeaveManagement/
+│
+├── main.py                 # Entry point of the application
+├── db/
+│   └── leave_system.db     # SQLite database file
+│
+└── README.md               # Project documentation
 
 #How to Run the Project 
 
