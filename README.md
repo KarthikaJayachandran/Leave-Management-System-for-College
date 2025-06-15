@@ -36,12 +36,12 @@ Student Module
 
 ## 🗂 Project Structure 
 LeaveManagement/
-│
-├── main.py                 # Entry point of the application
-├── db/
-│   └── leave_system.db     # SQLite database file
-│
-└── README.md               # Project documentation
+|
+|-- main.py                 (Entry point of the app)
+|-- db/
+|   `-- leave_system.db     (SQLite database)
+|
+`-- README.md               (Project docs)
 
 #How to Run the Project 
 
